@@ -1,0 +1,64 @@
+header {
+    height: 120px;
+    width: 100%;
+    background-color: mediumpurple;
+    text-align: center;
+}
+
+h2 {
+    font-size: 50px;
+    margin: 0;
+    padding: 20px;
+    color: white;
+    text-shadow: 7px 7px 7px black
+}
+
+body {
+	background: url('https://thomaskinkadeca.com/wp-content/uploads/moana_painting.jpg') no-repeat center center;
+	background-size: cover;
+}
+
+.table {
+    margin-top: 20px;
+    font-size: 1.2rem;
+}
+
+th {
+    padding: 20px;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+td {
+	padding: 20px;
+	text-emphasis: center;
+	font-size: 1.2rem;
+}
+
+table img {
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+td p {
+    font-size: 1.1rem;
+}
+
+.strengths-cell ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.strengths-cell li {
+    margin-bottom: 10px;
+}
+
+th {
+    font-size: 1.3rem;
+}
+
+td {
+    font-size: 1.2rem;
+}
+
